@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **WebDriverIO**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Dart programming**
 
 - 💬 Ask me about **Testing**
 
@@ -28,7 +28,7 @@ const vinay = {
         },
         devOps: ["Git", "Docker", "Jenkins"],
     },
-    currentFocus: "Dart",
+    currentFocus: "Typescript",
 };
 ```
 
