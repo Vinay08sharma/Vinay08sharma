@@ -28,7 +28,7 @@ const vinay = {
         },
         devOps: ["Git", "Docker", "Jenkins"],
     },
-    currentFocus: "Typescript",
+    currentFocus: "Dart",
 };
 ```
 
