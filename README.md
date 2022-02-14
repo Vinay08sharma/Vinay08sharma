@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dart programming**
 
-- 💬 Ask me about **Test Automation, Testing**
+- 💬 Ask me about **Test Automation/Testing**
 
 - 📫 How to reach me **sharmavinayrocks@gmail.com**
 
