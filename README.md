@@ -20,7 +20,7 @@ const vinay = {
     programmingLanguage: ["Typescript", "Java", "Javascript"],
     technologies: {
         testing: {
-            ui: ["WebdriverIO", "Selenium", "Appium"]
+            ui: ["WebdriverIO", "Selenium", "Appium", "Playwright"]
             api: ["RestAssured", "Postman"]
             framework: ["TestNG", "Mocha", "Jest"]
             designPattern: ["Data driven", "Page object modelling", "Factory design pattern"]
