@@ -4,9 +4,9 @@
 <h3 align="center">I'm a passionate Software Development Engineer in Test from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay08sharma&label=Profile%20views&color=0e75b6&style=flat" alt="vinay08sharma" /> </p>
 
-- 🔭 I’m currently working on **WebDriverIO**
+- 🔭 I’m currently working on **Cypress**
 
-- 🌱 I’m currently learning **Dart programming**
+- 🌱 I’m currently learning **Cypress with Typescript**
 
 - 💬 Ask me about **Test Automation/Testing**
 
@@ -20,7 +20,7 @@ const vinay = {
     programmingLanguage: ["Typescript", "Java", "Javascript"],
     technologies: {
         testing: {
-            ui: ["WebdriverIO", "Selenium", "Appium", "Playwright"]
+            ui: ["WebdriverIO", "Selenium", "Appium", "Cypress"]
             api: ["RestAssured", "Postman"]
             framework: ["TestNG", "Mocha", "Jest"]
             designPattern: ["Data driven", "Page object modelling", "Factory design pattern"]
