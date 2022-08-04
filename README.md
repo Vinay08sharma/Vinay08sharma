@@ -37,7 +37,7 @@ const vinay = {
 
 <a href = "https://www.linkedin.com/in/vinay-sharma-6470b15a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/Vinay08sharma"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
-<a href = "https://medium.com/@sharmavinayrocks"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
+<a href = "https://medium.com/@vinayksharma"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
 
 </p>
 <br/>
