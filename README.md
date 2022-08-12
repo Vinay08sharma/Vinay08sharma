@@ -26,7 +26,7 @@ const vinay = {
             designPattern: ["Data driven", "Page object modelling", "Factory design pattern"]
         },
         },
-        devOps: ["Git", "Docker", "Jenkins", "Gitlab"],
+        devOps: ["Git", "Docker", "Jenkins", "Gitlab", "GitHub Actions"],
     },
     currentFocus: "Typescript",
 };
