@@ -4,9 +4,9 @@
 <h3 align="center">I'm a passionate Software Development Engineer in Test from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay08sharma&label=Profile%20views&color=0e75b6&style=flat" alt="vinay08sharma" /> </p>
 
-- 🔭 I’m currently working on **Cypress**
+- 🔭 I’m currently working on **Springboot test automation**
 
-- 🌱 I’m currently learning **Cypress with Typescript**
+- 🌱 I’m currently learning **Playwright with Typescript**
 
 - 💬 Ask me about **Test Automation/Testing**
 
